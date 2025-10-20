@@ -1,7 +1,7 @@
 import 'dart:ffi';
 import 'dart:io';
 
-void main() {
+void Algoritmos2() {
 
   double?Nota1;
   double?Nota2;

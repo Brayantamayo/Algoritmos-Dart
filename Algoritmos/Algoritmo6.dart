@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
-void main() {
+void Algoritmo6() {
 
 
 double?Celcios;

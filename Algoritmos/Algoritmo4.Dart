@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void Algoritmo4() {
 
   String? Nombre;
   String? Apellido;

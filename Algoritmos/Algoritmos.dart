@@ -1,7 +1,7 @@
 import'dart:io';
 import 'dart:math';
 
-void main() {
+void Algoritmos() {
 ////#1
 
 int? Velocidad;

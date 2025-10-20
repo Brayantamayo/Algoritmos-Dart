@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main() {
+void Algoritmos3() {
 
   String?G;
   String?P;
